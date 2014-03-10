@@ -129,7 +129,7 @@ class Filter {
 	}
 
 	/**
-	 * Returns a date value
+	 * Returns a date value (format: yyyy/mm/dd)
 	 *
 	 * @return string|null
 	 */
