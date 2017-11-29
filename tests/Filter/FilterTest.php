@@ -46,7 +46,7 @@ class FilterTest extends \PHPUnit_Framework_TestCase {
 			true,
 			true,
 			true,
-			true,
+			false,
 			true,
 			true,
 			false,
