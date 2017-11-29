@@ -42,11 +42,11 @@ class FilterTest extends \PHPUnit_Framework_TestCase {
 
 	public function testBool() {
 		$expect = array(
+			false,
 			true,
 			true,
 			true,
-			true,
-			true,
+			false,
 			true,
 			true,
 			false,
